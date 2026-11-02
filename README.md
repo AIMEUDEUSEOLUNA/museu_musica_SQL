@@ -74,8 +74,6 @@ As tabelas `DOCUMENTO`, `INSTRUMENTO` e `PARTITURA` complementam as informaçõe
 ## Organização do Repositório
 
 ```text
-Projeto-Integrador-II/
-│
 ├── sql/
 │   └── museu_musica.sql
 │
