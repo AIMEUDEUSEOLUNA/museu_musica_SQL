@@ -94,17 +94,6 @@ O script contém os comandos de criação da estrutura do banco, definição dos
 
 **Observação:** em ambientes hospedados, como o AlwaysData, o nome do banco deve ser ajustado conforme o banco criado na plataforma.
 
-## Dados de Teste
-
-O banco possui registros fictícios para demonstrar o funcionamento das tabelas e dos relacionamentos, incluindo exemplos de instrumentos musicais, partituras, documentos históricos, mídias digitais e coleções.
-
-Os endereços de arquivos utilizados nos testes são ilustrativos.
-
-## Segurança
-
-As credenciais de acesso ao banco de dados não devem ser disponibilizadas publicamente no repositório.
-
-Em uma implementação de produção, as senhas dos usuários devem ser armazenadas utilizando algoritmos seguros de hash.
 
 ## Informações Acadêmicas
 
